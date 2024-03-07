@@ -9,3 +9,6 @@ Struktur Direktori
   - /Proyek_analisis_data.ipynb : Berisi file yang digunakan dalam menganalisis data
   - /dashboard : direktori ini berisi file "dasbord" yang digunakan untuk membuat dashboard sederhana dari hasil analisis data
 
+Penggunaan
+--
+streamlit run C:\Users\ASUS\Documents\dashbord>streamlit run dashbord.py
